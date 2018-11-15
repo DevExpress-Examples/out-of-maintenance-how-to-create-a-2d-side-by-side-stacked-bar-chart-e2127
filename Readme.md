@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SideBySideStackedBarChart/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SideBySideStackedBarChart/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a 2D Side-by-Side Stacked Bar chart
 
 
